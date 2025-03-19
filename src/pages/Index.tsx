@@ -61,10 +61,10 @@ const Index = () => {
                 <ChefHat className="h-8 w-8 text-primary" />
               </div>
               <h1 className="font-display text-4xl sm:text-5xl font-semibold tracking-tight">
-                Identify Your Food,<br />Get the Recipe
+                Snap Your Food,<br />Get the Recipe
               </h1>
               <p className="text-muted-foreground max-w-lg mx-auto">
-                Upload a photo of any food, and our AI will identify it and provide you with a complete recipe, nutritional information, and cooking instructions.
+                Upload or take a photo of any food, and our AI will identify it and provide you with a complete recipe, nutritional information, and cooking instructions.
               </p>
             </section>
             
